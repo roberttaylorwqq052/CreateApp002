@@ -1,3 +1,5 @@
+Hello Customer,
+
 This email confirms that your PayPal payment has been successfully processed. Your billing is complete, and the invoice is attached for your records.
 
 For questions or assistance, please reach out to our Customer Support team at +1 970-303-4399.
